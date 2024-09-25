@@ -1,1 +1,4 @@
+// This is the Raw database file that will change to keep improving and updating the current model
+// Changed will be made to this with the help of SQLite and GitHub integration with PyGitHUB 
+// Repository Opened 25.9.2024
 
